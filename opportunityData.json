@@ -1,0 +1,31 @@
+{
+   "Opportunity": {
+      "Id": "006Ho00000TEHxxIAH",
+      "OpportunityName": "Custom Integration",
+      "Amount": 166000.67,
+      "Type": "New Customer",
+      "CloseDate": "10/28/2023",
+      "StageName": "Needs Analysis",
+      "OpportunityLineItems": [{
+         "ProductCode": "SL9020",
+         "Name": "SLA: Bronze",
+         "Quantity": 1.00,
+         "UnitPrice": 10000.11,
+         "TotalPrice": 10000.11
+      }, {
+         "ProductCode": "IN7020",
+         "Name": "Installation: Portable",
+         "Quantity": 1.00,
+         "UnitPrice": 5999.57,
+         "TotalPrice": 5999.57
+      }, {
+         "ProductCode": "GC5060",
+         "Name": "GenWatt Gasoline 2000kW",
+         "Quantity": 1.00,
+         "UnitPrice": 150000.99,
+         "TotalPrice": 150000.99
+      }]
+   }
+}
+
+
